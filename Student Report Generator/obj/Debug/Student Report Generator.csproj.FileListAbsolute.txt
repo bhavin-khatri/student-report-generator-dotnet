@@ -1,0 +1,118 @@
+E:\Jigar College Work\charusat{sem 5}\new\adnf\New folder\case study\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.exe.config
+E:\Jigar College Work\charusat{sem 5}\new\adnf\New folder\case study\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.exe
+E:\Jigar College Work\charusat{sem 5}\new\adnf\New folder\case study\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.pdb
+E:\Jigar College Work\charusat{sem 5}\new\adnf\New folder\case study\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csprojAssemblyReference.cache
+E:\Jigar College Work\charusat{sem 5}\new\adnf\New folder\case study\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Properties.Resources.resources
+E:\Jigar College Work\charusat{sem 5}\new\adnf\New folder\case study\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csproj.GenerateResource.cache
+E:\Jigar College Work\charusat{sem 5}\new\adnf\New folder\case study\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csproj.CoreCompileInputs.cache
+E:\Jigar College Work\charusat{sem 5}\new\adnf\New folder\case study\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.exe
+E:\Jigar College Work\charusat{sem 5}\new\adnf\New folder\case study\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.pdb
+E:\Jigar College Work\charusat{sem 5}\new\adnf\New folder\case study\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.MAIN_LOGIN.resources
+E:\Jigar College Work\charusat{sem 5}\new\adnf\New folder\case study\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.exe.manifest
+E:\Jigar College Work\charusat{sem 5}\new\adnf\New folder\case study\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.application
+E:\Jigar College Work\charusat{sem 5}\new\adnf\New folder\case study\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.exe.manifest
+E:\Jigar College Work\charusat{sem 5}\new\adnf\New folder\case study\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.application
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.exe.config
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.exe.manifest
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.application
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.exe
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.pdb
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csprojAssemblyReference.cache
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.MAIN_LOGIN.resources
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Properties.Resources.resources
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csproj.GenerateResource.cache
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csproj.CoreCompileInputs.cache
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.exe.manifest
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.application
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.exe
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.pdb
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Student_login.resources
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Admin_login.resources
+D:\college pdf\SEM 5\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Form2.resources
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.exe.config
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.exe.manifest
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.application
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.exe
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.pdb
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csprojAssemblyReference.cache
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Admin_login.resources
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.MAIN_LOGIN.resources
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Properties.Resources.resources
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Student_login.resources
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csproj.GenerateResource.cache
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csproj.CoreCompileInputs.cache
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.exe.manifest
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.application
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.exe
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.pdb
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.ViewReport.resources
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.splash.resources
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.ShowReportAdmin2.resources
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Add_veiw.resources
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.AddReport.resources
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\bin\Debug\SRG.mdf
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\bin\Debug\SRG_log.ldf
+D:\college pdf\SEM 5\Dotnet\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.ViewAll.resources
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\bin\Debug\SRG.mdf
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\bin\Debug\SRG_log.ldf
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.exe.config
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.exe.manifest
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.application
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.exe
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.pdb
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csprojAssemblyReference.cache
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.AddReport.resources
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Add_veiw.resources
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Admin_login.resources
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.ShowReportAdmin2.resources
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.splash.resources
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.ViewAll.resources
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.ViewReport.resources
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.MAIN_LOGIN.resources
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Properties.Resources.resources
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Student_login.resources
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csproj.GenerateResource.cache
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csproj.CoreCompileInputs.cache
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.exe.manifest
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.application
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.exe
+F:\College notes\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.pdb
+D:\COLLEGE\BSC-IT\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csprojAssemblyReference.cache
+D:\COLLEGE\BSC-IT\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.AddReport.resources
+D:\COLLEGE\BSC-IT\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Add_veiw.resources
+D:\COLLEGE\BSC-IT\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Admin_login.resources
+D:\COLLEGE\BSC-IT\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.ShowReportAdmin2.resources
+D:\COLLEGE\BSC-IT\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.splash.resources
+D:\COLLEGE\BSC-IT\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.ViewAll.resources
+D:\COLLEGE\BSC-IT\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.ViewReport.resources
+D:\COLLEGE\BSC-IT\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.MAIN_LOGIN.resources
+D:\COLLEGE\BSC-IT\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Properties.Resources.resources
+D:\COLLEGE\BSC-IT\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Student_login.resources
+D:\COLLEGE\BSC-IT\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csproj.GenerateResource.cache
+D:\COLLEGE\BSC-IT\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csproj.CoreCompileInputs.cache
+D:\COLLEGE\BSC-IT\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.exe
+D:\COLLEGE\BSC-IT\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.pdb
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csprojAssemblyReference.cache
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.AddReport.resources
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Add_veiw.resources
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Admin_login.resources
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.ShowReportAdmin2.resources
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.splash.resources
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.ViewAll.resources
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.ViewReport.resources
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.MAIN_LOGIN.resources
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Properties.Resources.resources
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student_Report_Generator.Student_login.resources
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csproj.GenerateResource.cache
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.csproj.CoreCompileInputs.cache
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.exe
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.pdb
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\bin\Debug\SRG.mdf
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\bin\Debug\SRG_log.ldf
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.exe.config
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.exe.manifest
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.application
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.exe
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\bin\Debug\Student Report Generator.pdb
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.exe.manifest
+D:\COLLEGE\SEM 5\ADNF\PRACTICAL\Student Report Generator\Student Report Generator\obj\Debug\Student Report Generator.application
